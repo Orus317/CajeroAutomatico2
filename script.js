@@ -50,7 +50,7 @@ function entregarDinero(){
                 resultado.innerHTML += "<br><hr>"
             }
         }
-        resultado.innerHTML += "<hr>Quedan $" + dineroTotal + " en el cajero <br><hr>"
+        resultado.innerHTML += "Quedan $" + dineroTotal + " en el cajero <br><hr>"
     }
 }
 
